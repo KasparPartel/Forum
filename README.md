@@ -1,7 +1,10 @@
-# Real Time Forum 
-## Authors 
+# Forum 
+## Author
 - Kaspar Johannes Pärtel
-- Erkki Tikk
+
+## Description
+Forum with CRUD capabilities, authentication/authorization nad real time chat. Only registered users can add posts/comments and chat with other users. Unregistered users can only see posts/comments but can't create them. 
+Frontend written in React using css modules and backend written in Go.
 
 ## Usage:
 1. Open terminal
